@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:title="Pixiv去广告"
+        android:defaultValue="false"
+        android:summary="remove the fucking ad"
+        android:key="pixiv_ad" />
+
+    <SwitchPreference
+        android:title="掌上重邮课表第一"
+        android:defaultValue="false"
+        android:summary="make the fuking schedule first"
+        android:key="zscy_tab" />
+</PreferenceScreen>
